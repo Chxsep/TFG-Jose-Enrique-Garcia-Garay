@@ -12,11 +12,7 @@ Para ello se utilizan datos observacionales procedentes de los catálogos SCP Un
 
 ## Motivación
 
-El descubrimiento de la expansión acelerada del universo a finales de los años 90 constituyó uno de los avances más importantes de la cosmología moderna. Actualmente, el modelo cosmológico estándar ΛCDM describe esta aceleración mediante una constante cosmológica, asociada a una ecuación de estado:
-
-\[
-w = \frac{P_{DE}}{\rho_{DE}} = -1
-\]
+El descubrimiento de la expansión acelerada del universo a finales de los años 90 constituyó uno de los avances más importantes de la cosmología moderna. Actualmente, el modelo cosmológico estándar ΛCDM describe esta aceleración mediante una constante cosmológica, asociada a una ecuación de estado.
 
 Sin embargo, la naturaleza física de la energía oscura sigue siendo desconocida. Cualquier desviación significativa de este valor podría indicar la existencia de nueva física o de modelos dinámicos de energía oscura.
 
