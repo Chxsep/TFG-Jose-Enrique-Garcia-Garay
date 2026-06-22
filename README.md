@@ -128,15 +128,3 @@ w(z)=w_0+w_a\frac{z}{1+z}
 
 ---
 
-## Estructura del repositorio
-
-```text
-├── memoria/
-│   ├── TFG.pdf
-│   └── figuras/
-├── datos/
-│   ├── Pantheon+
-│   └── Union2.1
-├── codigo/
-├── resultados/
-└── README.md
